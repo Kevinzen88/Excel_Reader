@@ -1,0 +1,36 @@
+@{
+    ViewData["Title"] = "Consolidaciones";
+}
+
+<head>
+    <link rel="stylesheet" href="@Url.Content("~/css/ExcelControlerStyle.css")" />
+</head>
+
+<div class="text-center">
+    <h1 class="display-4">Bienvenido</h1>
+    <button type="button" class="btn btn-primary" onclick="abrirModal()">Dispersión</button>
+    <button type="button" class="btn btn-secondary" onclick="loadContent('dashboard')">Dashboard</button>
+</div>
+
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="cua-ama"></div>
+                <h5 class="modal-title">Cargar Excel</h5>
+            </div>
+            <div class="modal-body">
+                <input type="file" class="btn-elegir-archivo" id="archivo" accept=".xlsx, .xls" multiple></button>
+            </div>
+            <div class="modal-footer">
+                <button class="btn-cargar-archivos" onclick="sendExcelData()">Cargar Archivos</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="dynamicContent"></div>
+<script src="~/js/excel-viewer.js?v=2"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.0/xlsx.full.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+<script src="~/js/loadPartialViews.js?v=2"></script>

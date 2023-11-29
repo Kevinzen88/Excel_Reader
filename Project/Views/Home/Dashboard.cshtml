@@ -1,0 +1,71 @@
+@{
+    ViewData["Title"] = "Excel Viewer";
+}
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <link rel="stylesheet" href="@Url.Content("~/css/ViewEx.css?v=2")" />
+</head>
+
+<body>
+    <div class="Title">
+        <p class="text-1">Dashboard</p>
+    </div>
+    <div class="contenedor-principal">
+        <div class="titulo">Dashboard</div>
+        @using (Html.BeginForm("FiltrarPorFecha", "Controlador", FormMethod.Get))
+        {
+
+
+            <label for="fechaInicio">Fecha de inicio:</label>
+            <input type="date" id="fechaInicio" name="fechaInicio">
+
+            <label for="fechaFin">Fecha de fin:</label>
+            <input type="date" id="fechaFin" name="fechaFin">
+
+            <input type="submit" value="Filtrar">
+        }
+
+
+
+        <table class="tableContainer" border="1">
+            <thead>
+                <tr>
+                    <th>Número de Invoice</th>
+                    <th>Fecha de corte</th>
+                    <th>Fecha de depósito</th>
+                    <th>Cliente</th>
+                    <th>Depósito recibido</th>
+                    <th>Sucursal</th>
+                    <th>Monto Recibido</th>
+                    <th>Monto operado</th>
+                    <th>Comisión operador</th>
+                    <th>Comisión SWIT</th>
+                    <th>IVA comisiones</th>
+                    <th>A depositar</th>
+                    <th>Cuenta</th>
+                    <th>Clabe</th>
+                    <th>Banco</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Sucursal 1</td>
+                    <td>$500</td>
+                    <td>$500</td>
+                </tr>
+                <tr>
+                    <td>Sucursal 2</td>
+                    <td>$700</td>
+                    <td>$1200</td>
+                </tr>
+                <!-- Puedes agregar más filas según sea necesario -->
+            </tbody>
+        </table>
+    </div>
+
+    <script src="~/js/View-Ex.js?v=1"></script>
+</body>
+
+</html>

@@ -1,0 +1,118 @@
+@using System.Text.Json
+
+@model List<object> // El modelo que se usará en esta vista
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.0/xlsx.full.min.js"></script>
+        <link rel="stylesheet" href="@Url.Content("~/css/ExcelControllerStyle.css")" />
+    </head>
+
+    <body>
+        <div class="contenedor-principal">
+            <!-- Contenedor 1: Título -->
+            <div class="cuadro-amarillo"></div>
+            <div class="titulo-container">
+                <p class="text-1">Carga de Excel</p>
+            </div>
+
+            <div class="Background-Grey">
+                <!-- Contenedor 2: Inputs en línea -->
+                <div class="inputs-container">
+    @if (Model != null && Model.Any())
+    {
+        var firstItem = Model.FirstOrDefault();
+        var modelName = ViewBag.ModelName; // Usar el nombre personalizado del modelo
+
+        <label for="input1" class="label-sucursal">Sucursal:</label>
+        <input type="text" class="input-line input-sucursal input-model-name" id="input1" name="input1" value="@modelName">
+
+        <label for="input2" class="label-invoice">Numero de Invoice:</label>
+        <input type="text" class="input-line input-invoice input-model-name" id="input2" name="input2">
+
+        <label for="input3" class="label-monto">Monto de Invoice:</label>
+        <input type="text" class="input-line input-monto input-model-name" id="input3" name="input3">
+    }
+</div>
+
+
+                <!-- Contenedor 3: Tabla existente -->
+        <div class="preview-container" id="excel-preview-container">
+            @if (Model != null && Model.Skip(1).Any())
+            {
+                var tableModel = Model.Skip(1).ToList(); // Excluir el primer elemento que se utilizó para los campos de entrada
+
+                // Agrupar por las cabeceras
+                var groupedTables = tableModel.GroupBy(item =>
+                    string.Join(",", item.GetType().GetProperties().Select(property => property.Name)));
+
+                <div id="tables-container">
+                    @foreach (var group in groupedTables)
+                    {
+                        var firstItem = group.First();
+                        var properties = firstItem.GetType().GetProperties();
+                        var modelName = ViewBag.ModelName ?? string.Join(",", properties.Select(property => property.Name));
+
+                        <div class="table-wrapper">
+                            <table border="1">
+                                <tr class="freeze-header">
+                                    @foreach (var property in properties)
+                                    {
+                                        <th>@property.Name</th>
+                                    }
+                                </tr>
+
+                                @foreach (var item in group)
+                                {
+                                    <tr>
+                                        @foreach (var property in properties)
+                                        {
+                                            var value = property.GetValue(item)?.ToString();
+                                            value = value?.Trim('[', ']'); // Suprime los signos "[" y "]"
+                                            <td>@value</td>
+                                        }
+                                    </tr>
+                                }
+                            </table>
+                        </div>
+                    }
+                </div>
+            }
+            else
+            {
+                <p>No hay datos para mostrar en la tabla.</p>
+            }
+        </div>
+
+        <!-- Contenedor 4: Botones -->
+        <div class="botones-container">
+            <button type="button" onclick="mostrarTablaAnterior()">Anterior</button>
+            <button type="button" onclick="mostrarSiguienteTabla()">Siguiente</button>
+        </div>
+    </div>
+
+    <script>
+        var tablaActual = 0;
+        var tablas = document.querySelectorAll('.table-wrapper');
+
+        function mostrarTablaAnterior() {
+            if (tablaActual > 0) {
+                tablas[tablaActual].style.display = 'none';
+                tablaActual--;
+                tablas[tablaActual].style.display = 'block';
+            }
+        }
+
+        function mostrarSiguienteTabla() {
+            if (tablaActual < tablas.length - 1) {
+                tablas[tablaActual].style.display = 'none';
+                tablaActual++;
+                tablas[tablaActual].style.display = 'block';
+            }
+        }
+        
+    </script>
+    </body>
+</html>

@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Project</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+        integrity="sha512-5K1T9I/uqOWZUKVsI5Lzmw5tF+x8DpJgNHLt6H83N6/3gTI7QC1z9x3vLBYlw2Ap5kA4C6SxONFe5O5IA4F3Nw=="
+        crossorigin="anonymous" />
+    <link rel="stylesheet" href="~/Project.styles.css" asp-append-version="true" />
+</head>
+
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <a class="navbar-brand text-center text-uppercase text-white" asp-area="" asp-controller="Home"
+                asp-action="Index">
+                <i class="fas fa-project-diagram"></i> Excel Viewer
+            </a>
+            <ul>
+                <li><a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Consillations"><i
+                            class="fas fa-house-user"></i> Consillations</a></li>
+                <li><a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Index"><i
+                            class="fas fa-house-user"></i> Home</a></li>
+                <li><a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Privacy"><i
+                            class="fas fa-user-secret"></i> Privacy</a></li>
+                <li><a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="UploadDocuments"><i
+                            class="fas fa-file-alt"></i> Docs</a></li>
+                <li><a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="ExcelView"><i
+                            class="fas fa-file-alt"></i> Excel</a></li>
+            </ul>
+        </div>
+
+
+        <div class="main-content">
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
+        </div>
+    </div>
+
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+
+
+</html>

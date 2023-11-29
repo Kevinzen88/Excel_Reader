@@ -1,0 +1,19 @@
+@model List<ExcelModel>
+
+<div class="centered-section">
+    <h1>@ViewData["Title"]</h1>
+    <input type="file" id="fileInput" multiple />
+    <div class="button-color">
+        <button class="btn-3" onclick="selectFile()">Seleccionar Archivo</button>
+        <button class="btn-3" onclick="CleanData()">Limpiar Información</button>
+    </div>
+    <p id="selected-file">Ningún archivo seleccionado</p>
+</div>
+
+<div class="excel-container" id="excel-container">
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.0/xlsx.full.min.js"></script>
+<script src="~/js/excel-viewer.js?v=1"></script>
+
+</html>

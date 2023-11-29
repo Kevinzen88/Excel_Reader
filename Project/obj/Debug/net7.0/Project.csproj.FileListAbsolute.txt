@@ -1,0 +1,244 @@
+C:\Users\Jonatan\Desktop\proyecto\Project\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Jonatan\Desktop\proyecto\Project\bin\Debug\net7.0\appsettings.json
+C:\Users\Jonatan\Desktop\proyecto\Project\bin\Debug\net7.0\Project.staticwebassets.runtime.json
+C:\Users\Jonatan\Desktop\proyecto\Project\bin\Debug\net7.0\Project.exe
+C:\Users\Jonatan\Desktop\proyecto\Project\bin\Debug\net7.0\Project.deps.json
+C:\Users\Jonatan\Desktop\proyecto\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+C:\Users\Jonatan\Desktop\proyecto\Project\bin\Debug\net7.0\Project.dll
+C:\Users\Jonatan\Desktop\proyecto\Project\bin\Debug\net7.0\Project.pdb
+C:\Users\Jonatan\Desktop\proyecto\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+C:\Users\Jonatan\Desktop\proyecto\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonatan\Desktop\proyecto\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+C:\Users\Jonatan\Desktop\proyecto\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+C:\Users\Jonatan\Desktop\proyecto\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\Jonatan\Desktop\proyecto\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jonatan\Desktop\proyecto\Project\obj\Debug\net7.0\Project.RazorAssemblyInfo.cache
+C:\Users\Jonatan\Desktop\proyecto\Project\obj\Debug\net7.0\Project.RazorAssemblyInfo.cs
+C:\Users\Jonatan\Desktop\proyecto\Project\obj\Debug\net7.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jonatan\Desktop\proyecto\Project\obj\Debug\net7.0\staticwebassets\msbuild.build.Project.props
+C:\Users\Jonatan\Desktop\proyecto\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+C:\Users\Jonatan\Desktop\proyecto\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project.props
+C:\Users\Jonatan\Desktop\proyecto\Project\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Jonatan\Desktop\proyecto\Project\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Jonatan\Desktop\proyecto\Project\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Jonatan\Desktop\proyecto\Project\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Jonatan\Desktop\proyecto\Project\obj\Debug\net7.0\scopedcss\bundle\Project.styles.css
+C:\Users\Jonatan\Desktop\proyecto\Project\obj\Debug\net7.0\scopedcss\projectbundle\Project.bundle.scp.css
+C:\Users\Jonatan\Desktop\proyecto\Project\obj\Debug\net7.0\Project.dll
+C:\Users\Jonatan\Desktop\proyecto\Project\obj\Debug\net7.0\refint\Project.dll
+C:\Users\Jonatan\Desktop\proyecto\Project\obj\Debug\net7.0\Project.pdb
+C:\Users\Jonatan\Desktop\proyecto\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+C:\Users\Jonatan\Desktop\proyecto\Project\obj\Debug\net7.0\ref\Project.dll
+C:\Users\kevin\Downloads\proyecto\proyecto\project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Downloads\proyecto\proyecto\project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+C:\Users\kevin\Downloads\proyecto\proyecto\project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+C:\Users\kevin\Downloads\proyecto\proyecto\project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Downloads\proyecto\proyecto\project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kevin\Downloads\proyecto\proyecto\project\obj\Debug\net7.0\Project.RazorAssemblyInfo.cache
+C:\Users\kevin\Downloads\proyecto\proyecto\project\obj\Debug\net7.0\Project.RazorAssemblyInfo.cs
+C:\Users\kevin\Downloads\proyecto\proyecto\project\obj\Debug\net7.0\Project.dll
+C:\Users\kevin\Downloads\proyecto\proyecto\project\obj\Debug\net7.0\refint\Project.dll
+C:\Users\kevin\Downloads\proyecto\proyecto\project\obj\Debug\net7.0\Project.pdb
+C:\Users\kevin\Downloads\proyecto\proyecto\project\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\kevin\Downloads\proyecto\proyecto\project\bin\Debug\net7.0\appsettings.json
+C:\Users\kevin\Downloads\proyecto\proyecto\project\bin\Debug\net7.0\Project.staticwebassets.runtime.json
+C:\Users\kevin\Downloads\proyecto\proyecto\project\bin\Debug\net7.0\Project.exe
+C:\Users\kevin\Downloads\proyecto\proyecto\project\bin\Debug\net7.0\Project.deps.json
+C:\Users\kevin\Downloads\proyecto\proyecto\project\bin\Debug\net7.0\Project.runtimeconfig.json
+C:\Users\kevin\Downloads\proyecto\proyecto\project\bin\Debug\net7.0\Project.dll
+C:\Users\kevin\Downloads\proyecto\proyecto\project\bin\Debug\net7.0\Project.pdb
+C:\Users\kevin\Downloads\proyecto\proyecto\project\obj\Debug\net7.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kevin\Downloads\proyecto\proyecto\project\obj\Debug\net7.0\staticwebassets\msbuild.build.Project.props
+C:\Users\kevin\Downloads\proyecto\proyecto\project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+C:\Users\kevin\Downloads\proyecto\proyecto\project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project.props
+C:\Users\kevin\Downloads\proyecto\proyecto\project\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\kevin\Downloads\proyecto\proyecto\project\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\kevin\Downloads\proyecto\proyecto\project\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\kevin\Downloads\proyecto\proyecto\project\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kevin\Downloads\proyecto\proyecto\project\obj\Debug\net7.0\scopedcss\bundle\Project.styles.css
+C:\Users\kevin\Downloads\proyecto\proyecto\project\obj\Debug\net7.0\scopedcss\projectbundle\Project.bundle.scp.css
+C:\Users\kevin\Downloads\proyecto\proyecto\project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+C:\Users\kevin\Downloads\proyecto\proyecto\project\obj\Debug\net7.0\ref\Project.dll
+X:\Descargas\proyecto\Project\bin\Debug\net7.0\appsettings.Development.json
+X:\Descargas\proyecto\Project\bin\Debug\net7.0\appsettings.json
+X:\Descargas\proyecto\Project\bin\Debug\net7.0\Project.staticwebassets.runtime.json
+X:\Descargas\proyecto\Project\bin\Debug\net7.0\Project.exe
+X:\Descargas\proyecto\Project\bin\Debug\net7.0\Project.deps.json
+X:\Descargas\proyecto\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+X:\Descargas\proyecto\Project\bin\Debug\net7.0\Project.dll
+X:\Descargas\proyecto\Project\bin\Debug\net7.0\Project.pdb
+X:\Descargas\proyecto\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+X:\Descargas\proyecto\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+X:\Descargas\proyecto\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+X:\Descargas\proyecto\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+X:\Descargas\proyecto\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+X:\Descargas\proyecto\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cache
+X:\Descargas\proyecto\Project\obj\Debug\net7.0\Project.RazorAssemblyInfo.cache
+X:\Descargas\proyecto\Project\obj\Debug\net7.0\Project.RazorAssemblyInfo.cs
+X:\Descargas\proyecto\Project\obj\Debug\net7.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+X:\Descargas\proyecto\Project\obj\Debug\net7.0\staticwebassets\msbuild.build.Project.props
+X:\Descargas\proyecto\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+X:\Descargas\proyecto\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project.props
+X:\Descargas\proyecto\Project\obj\Debug\net7.0\staticwebassets.pack.json
+X:\Descargas\proyecto\Project\obj\Debug\net7.0\staticwebassets.build.json
+X:\Descargas\proyecto\Project\obj\Debug\net7.0\staticwebassets.development.json
+X:\Descargas\proyecto\Project\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+X:\Descargas\proyecto\Project\obj\Debug\net7.0\scopedcss\bundle\Project.styles.css
+X:\Descargas\proyecto\Project\obj\Debug\net7.0\scopedcss\projectbundle\Project.bundle.scp.css
+X:\Descargas\proyecto\Project\obj\Debug\net7.0\Project.dll
+X:\Descargas\proyecto\Project\obj\Debug\net7.0\refint\Project.dll
+X:\Descargas\proyecto\Project\obj\Debug\net7.0\Project.pdb
+X:\Descargas\proyecto\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+X:\Descargas\proyecto\Project\obj\Debug\net7.0\ref\Project.dll
+C:\Users\kevin\Downloads\proyecto (2)\proyecto\project\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\kevin\Downloads\proyecto (2)\proyecto\project\bin\Debug\net7.0\appsettings.json
+C:\Users\kevin\Downloads\proyecto (2)\proyecto\project\bin\Debug\net7.0\Project.staticwebassets.runtime.json
+C:\Users\kevin\Downloads\proyecto (2)\proyecto\project\bin\Debug\net7.0\Project.exe
+C:\Users\kevin\Downloads\proyecto (2)\proyecto\project\bin\Debug\net7.0\Project.deps.json
+C:\Users\kevin\Downloads\proyecto (2)\proyecto\project\bin\Debug\net7.0\Project.runtimeconfig.json
+C:\Users\kevin\Downloads\proyecto (2)\proyecto\project\bin\Debug\net7.0\Project.dll
+C:\Users\kevin\Downloads\proyecto (2)\proyecto\project\bin\Debug\net7.0\Project.pdb
+C:\Users\kevin\Downloads\proyecto (2)\proyecto\project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Downloads\proyecto (2)\proyecto\project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+C:\Users\kevin\Downloads\proyecto (2)\proyecto\project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+C:\Users\kevin\Downloads\proyecto (2)\proyecto\project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Downloads\proyecto (2)\proyecto\project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kevin\Downloads\proyecto (2)\proyecto\project\obj\Debug\net7.0\Project.RazorAssemblyInfo.cache
+C:\Users\kevin\Downloads\proyecto (2)\proyecto\project\obj\Debug\net7.0\Project.RazorAssemblyInfo.cs
+C:\Users\kevin\Downloads\proyecto (2)\proyecto\project\obj\Debug\net7.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kevin\Downloads\proyecto (2)\proyecto\project\obj\Debug\net7.0\staticwebassets\msbuild.build.Project.props
+C:\Users\kevin\Downloads\proyecto (2)\proyecto\project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+C:\Users\kevin\Downloads\proyecto (2)\proyecto\project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project.props
+C:\Users\kevin\Downloads\proyecto (2)\proyecto\project\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\kevin\Downloads\proyecto (2)\proyecto\project\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\kevin\Downloads\proyecto (2)\proyecto\project\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\kevin\Downloads\proyecto (2)\proyecto\project\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kevin\Downloads\proyecto (2)\proyecto\project\obj\Debug\net7.0\scopedcss\bundle\Project.styles.css
+C:\Users\kevin\Downloads\proyecto (2)\proyecto\project\obj\Debug\net7.0\scopedcss\projectbundle\Project.bundle.scp.css
+C:\Users\kevin\Downloads\proyecto (2)\proyecto\project\obj\Debug\net7.0\Project.dll
+C:\Users\kevin\Downloads\proyecto (2)\proyecto\project\obj\Debug\net7.0\refint\Project.dll
+C:\Users\kevin\Downloads\proyecto (2)\proyecto\project\obj\Debug\net7.0\Project.pdb
+C:\Users\kevin\Downloads\proyecto (2)\proyecto\project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+C:\Users\kevin\Downloads\proyecto (2)\proyecto\project\obj\Debug\net7.0\ref\Project.dll
+C:\Users\Jonatan\Desktop\proyecto (3)(1)\proyecto\Project\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Jonatan\Desktop\proyecto (3)(1)\proyecto\Project\bin\Debug\net7.0\appsettings.json
+C:\Users\Jonatan\Desktop\proyecto (3)(1)\proyecto\Project\bin\Debug\net7.0\Project.staticwebassets.runtime.json
+C:\Users\Jonatan\Desktop\proyecto (3)(1)\proyecto\Project\bin\Debug\net7.0\Project.exe
+C:\Users\Jonatan\Desktop\proyecto (3)(1)\proyecto\Project\bin\Debug\net7.0\Project.deps.json
+C:\Users\Jonatan\Desktop\proyecto (3)(1)\proyecto\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+C:\Users\Jonatan\Desktop\proyecto (3)(1)\proyecto\Project\bin\Debug\net7.0\Project.dll
+C:\Users\Jonatan\Desktop\proyecto (3)(1)\proyecto\Project\bin\Debug\net7.0\Project.pdb
+C:\Users\Jonatan\Desktop\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+C:\Users\Jonatan\Desktop\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonatan\Desktop\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+C:\Users\Jonatan\Desktop\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+C:\Users\Jonatan\Desktop\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\Jonatan\Desktop\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jonatan\Desktop\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\Project.RazorAssemblyInfo.cache
+C:\Users\Jonatan\Desktop\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\Project.RazorAssemblyInfo.cs
+C:\Users\Jonatan\Desktop\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jonatan\Desktop\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\staticwebassets\msbuild.build.Project.props
+C:\Users\Jonatan\Desktop\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+C:\Users\Jonatan\Desktop\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project.props
+C:\Users\Jonatan\Desktop\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Jonatan\Desktop\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Jonatan\Desktop\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Jonatan\Desktop\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Jonatan\Desktop\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\scopedcss\bundle\Project.styles.css
+C:\Users\Jonatan\Desktop\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\scopedcss\projectbundle\Project.bundle.scp.css
+C:\Users\Jonatan\Desktop\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\Project.dll
+C:\Users\Jonatan\Desktop\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\refint\Project.dll
+C:\Users\Jonatan\Desktop\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\Project.pdb
+C:\Users\Jonatan\Desktop\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+C:\Users\Jonatan\Desktop\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\ref\Project.dll
+C:\Users\kevin\Downloads\carpeta datos\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\kevin\Downloads\carpeta datos\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\bin\Debug\net7.0\appsettings.json
+C:\Users\kevin\Downloads\carpeta datos\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\bin\Debug\net7.0\Project.staticwebassets.runtime.json
+C:\Users\kevin\Downloads\carpeta datos\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\bin\Debug\net7.0\Project.exe
+C:\Users\kevin\Downloads\carpeta datos\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\bin\Debug\net7.0\Project.deps.json
+C:\Users\kevin\Downloads\carpeta datos\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\bin\Debug\net7.0\Project.runtimeconfig.json
+C:\Users\kevin\Downloads\carpeta datos\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\bin\Debug\net7.0\Project.dll
+C:\Users\kevin\Downloads\carpeta datos\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\bin\Debug\net7.0\Project.pdb
+C:\Users\kevin\Downloads\carpeta datos\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Downloads\carpeta datos\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+C:\Users\kevin\Downloads\carpeta datos\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+C:\Users\kevin\Downloads\carpeta datos\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Downloads\carpeta datos\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kevin\Downloads\carpeta datos\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\Project.RazorAssemblyInfo.cache
+C:\Users\kevin\Downloads\carpeta datos\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\Project.RazorAssemblyInfo.cs
+C:\Users\kevin\Downloads\carpeta datos\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kevin\Downloads\carpeta datos\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\staticwebassets\msbuild.build.Project.props
+C:\Users\kevin\Downloads\carpeta datos\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+C:\Users\kevin\Downloads\carpeta datos\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project.props
+C:\Users\kevin\Downloads\carpeta datos\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\kevin\Downloads\carpeta datos\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\kevin\Downloads\carpeta datos\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\kevin\Downloads\carpeta datos\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kevin\Downloads\carpeta datos\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\scopedcss\bundle\Project.styles.css
+C:\Users\kevin\Downloads\carpeta datos\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\scopedcss\projectbundle\Project.bundle.scp.css
+C:\Users\kevin\Downloads\carpeta datos\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\Project.dll
+C:\Users\kevin\Downloads\carpeta datos\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\refint\Project.dll
+C:\Users\kevin\Downloads\carpeta datos\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\Project.pdb
+C:\Users\kevin\Downloads\carpeta datos\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+C:\Users\kevin\Downloads\carpeta datos\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\ref\Project.dll
+X:\Descargas\proyecto (3)(1)\proyecto\Project\bin\Debug\net7.0\appsettings.Development.json
+X:\Descargas\proyecto (3)(1)\proyecto\Project\bin\Debug\net7.0\appsettings.json
+X:\Descargas\proyecto (3)(1)\proyecto\Project\bin\Debug\net7.0\Project.staticwebassets.runtime.json
+X:\Descargas\proyecto (3)(1)\proyecto\Project\bin\Debug\net7.0\Project.exe
+X:\Descargas\proyecto (3)(1)\proyecto\Project\bin\Debug\net7.0\Project.deps.json
+X:\Descargas\proyecto (3)(1)\proyecto\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+X:\Descargas\proyecto (3)(1)\proyecto\Project\bin\Debug\net7.0\Project.dll
+X:\Descargas\proyecto (3)(1)\proyecto\Project\bin\Debug\net7.0\Project.pdb
+X:\Descargas\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+X:\Descargas\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+X:\Descargas\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+X:\Descargas\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+X:\Descargas\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+X:\Descargas\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cache
+X:\Descargas\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\Project.RazorAssemblyInfo.cache
+X:\Descargas\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\Project.RazorAssemblyInfo.cs
+X:\Descargas\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+X:\Descargas\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\staticwebassets\msbuild.build.Project.props
+X:\Descargas\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+X:\Descargas\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project.props
+X:\Descargas\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\staticwebassets.pack.json
+X:\Descargas\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\staticwebassets.build.json
+X:\Descargas\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\staticwebassets.development.json
+X:\Descargas\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+X:\Descargas\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\scopedcss\bundle\Project.styles.css
+X:\Descargas\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\scopedcss\projectbundle\Project.bundle.scp.css
+X:\Descargas\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\Project.dll
+X:\Descargas\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\refint\Project.dll
+X:\Descargas\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\Project.pdb
+X:\Descargas\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+X:\Descargas\proyecto (3)(1)\proyecto\Project\obj\Debug\net7.0\ref\Project.dll
+C:\Users\kevin\Downloads\trabajo_bien\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\kevin\Downloads\trabajo_bien\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\bin\Debug\net7.0\appsettings.json
+C:\Users\kevin\Downloads\trabajo_bien\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\bin\Debug\net7.0\Project.staticwebassets.runtime.json
+C:\Users\kevin\Downloads\trabajo_bien\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\bin\Debug\net7.0\Project.exe
+C:\Users\kevin\Downloads\trabajo_bien\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\bin\Debug\net7.0\Project.deps.json
+C:\Users\kevin\Downloads\trabajo_bien\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\bin\Debug\net7.0\Project.runtimeconfig.json
+C:\Users\kevin\Downloads\trabajo_bien\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\bin\Debug\net7.0\Project.dll
+C:\Users\kevin\Downloads\trabajo_bien\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\bin\Debug\net7.0\Project.pdb
+C:\Users\kevin\Downloads\trabajo_bien\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Downloads\trabajo_bien\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+C:\Users\kevin\Downloads\trabajo_bien\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+C:\Users\kevin\Downloads\trabajo_bien\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Downloads\trabajo_bien\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kevin\Downloads\trabajo_bien\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\Project.RazorAssemblyInfo.cache
+C:\Users\kevin\Downloads\trabajo_bien\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\Project.RazorAssemblyInfo.cs
+C:\Users\kevin\Downloads\trabajo_bien\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kevin\Downloads\trabajo_bien\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\staticwebassets\msbuild.build.Project.props
+C:\Users\kevin\Downloads\trabajo_bien\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+C:\Users\kevin\Downloads\trabajo_bien\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project.props
+C:\Users\kevin\Downloads\trabajo_bien\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\kevin\Downloads\trabajo_bien\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\kevin\Downloads\trabajo_bien\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\kevin\Downloads\trabajo_bien\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kevin\Downloads\trabajo_bien\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\scopedcss\bundle\Project.styles.css
+C:\Users\kevin\Downloads\trabajo_bien\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\scopedcss\projectbundle\Project.bundle.scp.css
+C:\Users\kevin\Downloads\trabajo_bien\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\Project.dll
+C:\Users\kevin\Downloads\trabajo_bien\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\refint\Project.dll
+C:\Users\kevin\Downloads\trabajo_bien\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\Project.pdb
+C:\Users\kevin\Downloads\trabajo_bien\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+C:\Users\kevin\Downloads\trabajo_bien\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\ref\Project.dll
