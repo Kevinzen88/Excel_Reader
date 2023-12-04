@@ -6,7 +6,7 @@ html {
     font-family: Arial, sans-serif;
 }
 
-.contenedor-principal {
+.parent-container {
     position: fixed;
     background-color: #ffffff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
@@ -18,7 +18,7 @@ html {
     height: 70%;
 }
 
-.cuadro-amarillo {
+.yellow-box {
     position: fixed;
     padding-top: 2%;
     padding-left: 2%;

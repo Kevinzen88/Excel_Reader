@@ -12,9 +12,9 @@
 </head>
 
 <body>
-    <div class="contenedor-principal">
+    <div class="parent-container">
         <!-- Contenedor 1: Título -->
-        <div class="cuadro-amarillo"></div>
+        <div class="yellow-box"></div>
         <div class="titulo-container">
             <p class="text-1">Carga de Excel</p>
         </div>
@@ -89,39 +89,14 @@
                 }
             </div>
 
+
             <!-- Contenedor 4: Botones -->
             <div class="botones-container">
-                <button type="button" onclick="mostrarTablaAnterior()">Anterior</button>
-                <button type="button" onclick="mostrarSiguienteTabla()">Siguiente</button>
+                <button type="button" onclick="showPreviousTable()">Anterior</button>
+                <button type="button" onclick="showNextTable()">Siguiente</button>
             </div>
         </div>
-
-        <script>
-            var tablaActual = 0;
-            var tablas = document.querySelectorAll('.table-wrapper');
-
-            // Ocultar todas las tablas excepto la primera
-            for (var i = 1; i < tablas.length; i++) {
-                tablas[i].style.display = 'none';
-            }
-
-            function mostrarTablaAnterior() {
-                if (tablaActual > 0) {
-                    tablas[tablaActual].style.display = 'none';
-                    tablaActual--;
-                    tablas[tablaActual].style.display = 'block';
-                }
-            }
-
-            function mostrarSiguienteTabla() {
-                if (tablaActual < tablas.length - 1) {
-                    tablas[tablaActual].style.display = 'none';
-                    tablaActual++;
-                    tablas[tablaActual].style.display = 'block';
-                }
-            }
-
-        </script>
+        <script src="~/js/excel-datos.js?v=2"></script>
 </body>
 
 </html>
