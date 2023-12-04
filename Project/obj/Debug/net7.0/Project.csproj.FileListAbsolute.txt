@@ -242,3 +242,34 @@ C:\Users\kevin\Downloads\trabajo_bien\proyecto (3)(1)\proyecto (3)(1)\proyecto\p
 C:\Users\kevin\Downloads\trabajo_bien\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\Project.pdb
 C:\Users\kevin\Downloads\trabajo_bien\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\Project.genruntimeconfig.cache
 C:\Users\kevin\Downloads\trabajo_bien\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\obj\Debug\net7.0\ref\Project.dll
+X:\Documentos\SWIT\Excel_Reader\Project\bin\Debug\net7.0\appsettings.Development.json
+X:\Documentos\SWIT\Excel_Reader\Project\bin\Debug\net7.0\appsettings.json
+X:\Documentos\SWIT\Excel_Reader\Project\bin\Debug\net7.0\Project.staticwebassets.runtime.json
+X:\Documentos\SWIT\Excel_Reader\Project\bin\Debug\net7.0\Project.exe
+X:\Documentos\SWIT\Excel_Reader\Project\bin\Debug\net7.0\Project.deps.json
+X:\Documentos\SWIT\Excel_Reader\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+X:\Documentos\SWIT\Excel_Reader\Project\bin\Debug\net7.0\Project.dll
+X:\Documentos\SWIT\Excel_Reader\Project\bin\Debug\net7.0\Project.pdb
+X:\Documentos\SWIT\Excel_Reader\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+X:\Documentos\SWIT\Excel_Reader\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+X:\Documentos\SWIT\Excel_Reader\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+X:\Documentos\SWIT\Excel_Reader\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+X:\Documentos\SWIT\Excel_Reader\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+X:\Documentos\SWIT\Excel_Reader\Project\obj\Debug\net7.0\Project.MvcApplicationPartsAssemblyInfo.cache
+X:\Documentos\SWIT\Excel_Reader\Project\obj\Debug\net7.0\Project.RazorAssemblyInfo.cache
+X:\Documentos\SWIT\Excel_Reader\Project\obj\Debug\net7.0\Project.RazorAssemblyInfo.cs
+X:\Documentos\SWIT\Excel_Reader\Project\obj\Debug\net7.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+X:\Documentos\SWIT\Excel_Reader\Project\obj\Debug\net7.0\staticwebassets\msbuild.build.Project.props
+X:\Documentos\SWIT\Excel_Reader\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+X:\Documentos\SWIT\Excel_Reader\Project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Project.props
+X:\Documentos\SWIT\Excel_Reader\Project\obj\Debug\net7.0\staticwebassets.pack.json
+X:\Documentos\SWIT\Excel_Reader\Project\obj\Debug\net7.0\staticwebassets.build.json
+X:\Documentos\SWIT\Excel_Reader\Project\obj\Debug\net7.0\staticwebassets.development.json
+X:\Documentos\SWIT\Excel_Reader\Project\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+X:\Documentos\SWIT\Excel_Reader\Project\obj\Debug\net7.0\scopedcss\bundle\Project.styles.css
+X:\Documentos\SWIT\Excel_Reader\Project\obj\Debug\net7.0\scopedcss\projectbundle\Project.bundle.scp.css
+X:\Documentos\SWIT\Excel_Reader\Project\obj\Debug\net7.0\Project.dll
+X:\Documentos\SWIT\Excel_Reader\Project\obj\Debug\net7.0\refint\Project.dll
+X:\Documentos\SWIT\Excel_Reader\Project\obj\Debug\net7.0\Project.pdb
+X:\Documentos\SWIT\Excel_Reader\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+X:\Documentos\SWIT\Excel_Reader\Project\obj\Debug\net7.0\ref\Project.dll
