@@ -9,53 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Project
 build_property.RootNamespace = Project
-build_property.ProjectDir = C:\Users\kevin\Downloads\trabajo_bien\proyecto (3)(1)\proyecto (3)(1)\proyecto\project\
+build_property.ProjectDir = X:\Documentos\SWIT\Excel_Reader\Project\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\kevin\Downloads\trabajo_bien\proyecto (3)(1)\proyecto (3)(1)\proyecto\project
+build_property.MSBuildProjectDirectory = X:\Documentos\SWIT\Excel_Reader\Project
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/kevin/Downloads/trabajo_bien/proyecto (3)(1)/proyecto (3)(1)/proyecto/project/Views/Home/Consillations.cshtml]
+[X:/Documentos/SWIT/Excel_Reader/Project/Views/Home/Consillations.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb25zaWxsYXRpb25zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kevin/Downloads/trabajo_bien/proyecto (3)(1)/proyecto (3)(1)/proyecto/project/Views/Home/Dashboard.cshtml]
+[X:/Documentos/SWIT/Excel_Reader/Project/Views/Home/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXNoYm9hcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kevin/Downloads/trabajo_bien/proyecto (3)(1)/proyecto (3)(1)/proyecto/project/Views/Home/ExcelView.cshtml]
+[X:/Documentos/SWIT/Excel_Reader/Project/Views/Home/ExcelView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFeGNlbFZpZXcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kevin/Downloads/trabajo_bien/proyecto (3)(1)/proyecto (3)(1)/proyecto/project/Views/Home/Index.cshtml]
+[X:/Documentos/SWIT/Excel_Reader/Project/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kevin/Downloads/trabajo_bien/proyecto (3)(1)/proyecto (3)(1)/proyecto/project/Views/Home/Privacy.cshtml]
+[X:/Documentos/SWIT/Excel_Reader/Project/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kevin/Downloads/trabajo_bien/proyecto (3)(1)/proyecto (3)(1)/proyecto/project/Views/Home/UploadDocuments.cshtml]
+[X:/Documentos/SWIT/Excel_Reader/Project/Views/Home/UploadDocuments.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVcGxvYWREb2N1bWVudHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kevin/Downloads/trabajo_bien/proyecto (3)(1)/proyecto (3)(1)/proyecto/project/Views/Shared/Error.cshtml]
+[X:/Documentos/SWIT/Excel_Reader/Project/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kevin/Downloads/trabajo_bien/proyecto (3)(1)/proyecto (3)(1)/proyecto/project/Views/Shared/_ValidationScriptsPartial.cshtml]
+[X:/Documentos/SWIT/Excel_Reader/Project/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kevin/Downloads/trabajo_bien/proyecto (3)(1)/proyecto (3)(1)/proyecto/project/Views/_ViewImports.cshtml]
+[X:/Documentos/SWIT/Excel_Reader/Project/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kevin/Downloads/trabajo_bien/proyecto (3)(1)/proyecto (3)(1)/proyecto/project/Views/_ViewStart.cshtml]
+[X:/Documentos/SWIT/Excel_Reader/Project/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kevin/Downloads/trabajo_bien/proyecto (3)(1)/proyecto (3)(1)/proyecto/project/Views/Shared/_Layout.cshtml]
+[X:/Documentos/SWIT/Excel_Reader/Project/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-9q8ibpt6yd
