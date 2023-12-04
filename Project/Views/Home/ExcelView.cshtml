@@ -100,6 +100,11 @@
             var tablaActual = 0;
             var tablas = document.querySelectorAll('.table-wrapper');
 
+            // Ocultar todas las tablas excepto la primera
+            for (var i = 1; i < tablas.length; i++) {
+                tablas[i].style.display = 'none';
+            }
+
             function mostrarTablaAnterior() {
                 if (tablaActual > 0) {
                     tablas[tablaActual].style.display = 'none';
